@@ -1,0 +1,17 @@
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.exe
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\obj\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.AssemblyInfoInputs.cache
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\obj\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.AssemblyInfo.cs
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\obj\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.csproj.CopyComplete
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.deps.json
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.runtimeconfig.json
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.runtimeconfig.dev.json
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.dll
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.pdb
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\obj\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.dll
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\obj\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.pdb
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\obj\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.genruntimeconfig.cache
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\obj\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.csproj.CoreCompileInputs.cache
+C:\Users\Amadeus\source\repos\MyAnimelist_Friend_Bot\MyAnimelist_Friend_Bot\obj\Debug\netcoreapp3.1\MyAnimelist_Friend_Bot.csprojAssemblyReference.cache
